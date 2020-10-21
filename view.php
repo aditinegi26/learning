@@ -6,6 +6,7 @@
 <script>
 function updateQty()
 {
-  alert('qty box clicked');
+  var qtyVal = '5';
+  alert('qty box clicked '+qtyVal);
 }
 </script>
